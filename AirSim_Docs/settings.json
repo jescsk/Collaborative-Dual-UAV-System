@@ -1,0 +1,21 @@
+{
+    "SettingsVersion": 1.2,
+    "SimMode": "Multirotor",
+    "ClockType": "SteppableClock",
+    "Vehicles": {
+        "Drone1": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AllowAPIAlways": true,
+            "EnableCollisions": true,
+            "X": 0, "Y": 0, "Z": -10
+        },
+        "Drone2": {
+            "VehicleType": "SimpleFlight",
+            "DefaultVehicleState": "Armed",
+            "AllowAPIAlways": true,
+            "EnableCollisions": true,
+            "X": 5, "Y": 0, "Z": -10
+        }
+    }
+}

@@ -1,0 +1,7 @@
+torch
+opencv-python
+matplotlib
+numpy
+opencv-contrib-python
+msgpack-rpc-python
+airsim~=1.8.1
