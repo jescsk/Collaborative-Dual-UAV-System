@@ -4,6 +4,9 @@
 ## Description
 This project aims to design, implement, and evaluate a simulated dual-Unmanned Aerial Vehicle (UAV, drone) system where two drones collaborate to detect, share, and verify objects using computer vision and wireless communication. By leveraging multiple viewpoints, the system will improve detection accuracy, valuable for search and rescue (SAR) operations in challenging environments like dense forests or disaster zones. This will involve developing a lightweight object detection model to be implemented within the two drones. Communication protocols and drone positioning will be optimised to enhance reliability. The expected output is a functional prototype that demonstrates improved accuracy through coordinated UAV object-verification, which will be quantitatively evaluated within a controlled simulated environment.
 
+### Current Status
+This project is a WIP and is currently limited to software simulations, contents of which are not yet ported to hardware.
+
 
 ## Pipeline
 Airsim https://github.com/microsoft/AirSim
